@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lobster&family=Noto+Sans&family=Patua+One&family=Poppins:wght@300;400&family=Roboto:wght@100&family=Rubik:wght@300&family=Sniglet&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Noto Sans', sans-serif;
+  background-color:  #17082e;
+  /* text-shadow: 0 0 1px rgba(50, 251, 226, 0.3), 0 0 2px rgba(50, 251, 226, 0.3), 0 0 5px rgba(50, 251, 226, 0.2); */
+  color:#32fbe2;
+  text-shadow: 0 0 1px rgba(50, 251, 226, 0.3), 0 0 2px rgba(50, 251, 226, 0.3), 0 0 5px rgba(50, 251, 226, 0.2);
+}
